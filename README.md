@@ -285,4 +285,5 @@ Si descubre alg√∫n problema relacionado con la seguridad, divulgue la informaci√
 
 ## [Componentes](https://github.com/Tecsoess/beneficiosi-clients-front)
 
+------------
 
